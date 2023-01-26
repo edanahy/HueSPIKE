@@ -24,3 +24,7 @@ When you push SPIKE Prime Force Sensor in Port B: the Hue light turns on.
 When you push SPIKE Prime Force Sensor in Port D: the Hue light turns off.
 
 If the light is on and you spin the SPIKE Prime Motor in Port F: the Hue light changes to a random color.
+
+# Description/Demo Video
+
+[![Hue Control](https://img.youtube.com/vi/GrWgpg3aBRw/0.jpg)](https://youtu.be/GrWgpg3aBRw)
